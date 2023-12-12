@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62581923460",
+    "firebase_url": "https://placemark2-kotlin-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "placemark2-kotlin",
+    "storage_bucket": "placemark2-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62581923460:android:95cc597d048d81e5696cd1",
+        "android_client_info": {
+          "package_name": "ie.wit.donationx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62581923460-cbk62b4i8ph7titq85cr4bn4te0qgbuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.wit.donationx",
+            "certificate_hash": "6408d30aa48a4768bcdd67c608af96ab21c427e1"
+          }
+        },
+        {
+          "client_id": "62581923460-9prosv2socv9ohrud7k5su4oc3auirod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0e6ZOFQE87E2iRreDpymYZvoUda47wz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62581923460-9prosv2socv9ohrud7k5su4oc3auirod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
